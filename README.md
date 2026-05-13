@@ -1,4 +1,4 @@
-# Ana-Parra Aguilar 
+# Ana Parra Aguilar 
 Estudiante de Ingeniería en Mecatronica en la UANL, con interés en el análisis de datos, programación en Python. Actualmente desarrollando proyectos academicos relacionados con inteligencia artificial, procesamiento de datos y machine learning. 
 # Proyectos destacados 
 ### Procesamiento de datos
@@ -9,5 +9,5 @@ Implementación de un modelo de árbol de decisión para clasificación y análi
 - Python desde cero
 - Análisis de datos
 ## Contacto 
-LinkeIn: www.linkedin.com/in/ana-parra-263778388 
+LinkedIn: www.linkedin.com/in/ana-parra-263778388 
 Correo: anaaparra23@gmail.com
